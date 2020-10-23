@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/pedro/Downloads/Soma_Produtos/simulation/qsim
+vhard_block
+Z1 !s110 1603415275
+!i10b 1
+!s100 OmJz8G1oR?iVEoaQ_l@C82
+I@;>eh7emIn8V3U`lM;=GP0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1603415274
+Z4 8Soma_Produtos.vo
+Z5 FSoma_Produtos.vo
+L0 219
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1603415275.000000
+Z8 !s107 Soma_Produtos.vo|
+Z9 !s90 -work|work|Soma_Produtos.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vSoma_Produtos
+R1
+!i10b 1
+!s100 Bl28KMDbjM5mhKM@@i7g73
+I3hi_>V04IQ6NkWJfgIX;b1
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@soma_@produtos
+vSoma_Produtos_vlg_vec_tst
+R1
+!i10b 1
+!s100 9R_Q?UQG?DBGLM8^biZPh0
+I?<@h:_fT@14Klz`NiMU;B1
+R2
+R0
+w1603415273
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@soma_@produtos_vlg_vec_tst
